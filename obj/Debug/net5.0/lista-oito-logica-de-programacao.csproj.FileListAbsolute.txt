@@ -1,0 +1,5 @@
+C:\Workingspace\lista-oito-logica-de-programacao\obj\Debug\net5.0\lista-oito-logica-de-programacao.csproj.AssemblyReference.cache
+C:\Workingspace\lista-oito-logica-de-programacao\obj\Debug\net5.0\lista-oito-logica-de-programacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workingspace\lista-oito-logica-de-programacao\obj\Debug\net5.0\lista-oito-logica-de-programacao.AssemblyInfoInputs.cache
+C:\Workingspace\lista-oito-logica-de-programacao\obj\Debug\net5.0\lista-oito-logica-de-programacao.AssemblyInfo.cs
+C:\Workingspace\lista-oito-logica-de-programacao\obj\Debug\net5.0\lista-oito-logica-de-programacao.csproj.CoreCompileInputs.cache
